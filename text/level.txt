@@ -1,0 +1,52 @@
+﻿Tilemapping Version 1.0
+#tileset
+img/tilesetoriginal2.png
+30 1
+tile0: safe
+tile1: safe
+tile2: safe
+tile3: safe
+tile4: safe
+tile5: danger
+tile6: safe
+tile7: safe
+tile8: safe
+tile9: safe
+tile10: safe
+tile11: safe
+tile12: safe
+tile13: safe
+tile14: safe
+tile15: safe
+tile16: safe
+tile17: safe
+tile18: safe
+tile19: safe
+tile20: safe
+tile21: safe
+tile22: safe
+tile23: safe
+tile24: safe
+tile25: safe
+tile26: safe
+tile27: safe
+tile28: safe
+tile29: safe
+#level
+19 15
+29   29   29   29   29   29   29   29   21   22   22   22   22   23   29   29   29   29   29   
+29   29   21   22   23   29   29   4   6   24   24   24   24   4   5   5   5   5   6   
+29   13   14   14   14   15   29   29   29   29   29   29   29   29   12   7   7   10   29   
+29   29   16   16   16   29   29   29   29   29   29   29   29   29   29   29   29   29   29   
+3   29   19   16   18   29   21   22   22   22   22   23   29   29   29   29   29   29   29   
+2   4   5   5   5   5   6   24   24   24   24   13   14   14   15   29   29   29   29   
+2   29   29   29   29   29   29   29   29   29   29   29   16   16   29   29   29   29   29   
+2   29   29   29   29   29   29   29   29   29   29   29   16   16   29   13   15   29   29   
+29   29   29   29   29   29   29   29   29   29   29   29   16   16   29   29   29   29   29   
+29   29   29   29   29   29   29   29   29   29   29   29   16   16   29   29   29   29   0   
+13   14   15   29   29   29   29   29   29   29   29   8   5   5   6   29   0   29   29   
+19   16   18   29   29   29   29   29   29   0   29   12   7   7   29   29   29   29   29   
+5   5   5   5   5   5   6   29   29   29   29   12   7   7   29   29   29   4   5   
+7   7   7   7   7   10   25   25   25   25   25   12   7   7   25   25   25   25   9   
+7   7   11   27   27   27   26   27   27   26   27   27   9   7   27   26   27   27   9
+#fin
